@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Shirke</h1>
 <h3 align="center">Passionate about DevOps.</h3>
-
+<img align="right" alt="error" width="400" src="http://www.funnyjunk.com/comment/anonymous/content/4204293/-5/1/parent_id/20/3">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxx-holic-01&label=Profile%20views&color=0e75b6&style=flat" alt="xxx-holic-01" /> </p>
 
 - 🔭 I’m currently working on **PiroAI**
