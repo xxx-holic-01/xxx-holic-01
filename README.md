@@ -1,4 +1,4 @@
-![logo](https://github.com/xxx-holic-01/xxx-holic-01/blob/main/pexels-jacoby-clarke-5400775.jpg)
+![logo](https://www.pexels.com/photo/man-in-black-suit-holding-microphone-4904563/)
 
 <h1 align="center">Hi 👋, I'm Diksha Shirke</h1>
 <h3 align="center">Passionate about DevOps.</h3>
