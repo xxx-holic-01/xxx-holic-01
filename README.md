@@ -1,5 +1,4 @@
-![logo](https://www.pexels.com/photo/man-in-black-suit-holding-microphone-4904563/)
-
+![My Remote Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Diksha Shirke</h1>
 <h3 align="center">Passionate about DevOps.</h3>
 <img align="right" alt="error" width="400" src="https://thumbs.gfycat.com/EquatorialAmbitiousFennecfox-small.gif">
