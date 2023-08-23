@@ -1,7 +1,7 @@
 ![My Remote Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Diksha Shirke</h1>
 <h3 align="center">Passionate about DevOps.</h3>
-<img align="right" alt="error" width="400" src="https://thumbs.gfycat.com/EquatorialAmbitiousFennecfox-small.gif">
+<img align="right" alt="error" width="400" src="https://media.tenor.com/a6S35wgiCOsAAAAC/deku-java.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxx-holic-01&label=Profile%20views&color=0e75b6&style=flat" alt="xxx-holic-01" /> </p>
 
 - 🔭 I’m currently working on **PiroAI**
