@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dikshasshirke@gmail.com**
 
-- ⚡ Fun fact **I am pastry addicted.**
+- ⚡ Fun fact **don't drink and root**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
