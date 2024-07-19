@@ -1,4 +1,4 @@
-![My Remote Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+![My Remote Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fanime%2Fcomments%2F2t2r5w%2Flooping_anime_gifs%2F&psig=AOvVaw2pUOO030OK4GiBIAh2WU1B&ust=1721449954722000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDdnPuisocDFQAAAAAdAAAAABAY)
 <h1 align="center">Hi 👋, I'm Diksha Shirke</h1>
 <h3 align="center"> DevOps Aspirant</h3>
 <img align="right" alt="error" width="400" src="https://media.tenor.com/a6S35wgiCOsAAAAC/deku-java.gif">
